@@ -1,4 +1,3 @@
 # nginx
 
-TODO: Enter the cookbook description here.
-
+This is to test the nginx (CI) pipeline
